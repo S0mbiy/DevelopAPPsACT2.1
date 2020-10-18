@@ -1,0 +1,5 @@
+[
+{'nombre' : 'Diego', 'hobby' : 'videojuegos', 'age' : '10', 'phone': '12345678', 'address': 'Calle siempre viva 1234'},
+{'nombre' : 'Luis Angel', 'hobby' : 'ver series', 'age' : '15', 'phone': '12345678', 'address': 'Calle siempre viva 1234'},
+{'nombre' : 'Hugo', 'hobby' : 'ver peliculas', 'age' : '20', 'phone': '12345678', 'address': 'Calle siempre viva 1234'}
+]
